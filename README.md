@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi there 👋
+
+- 🔭 I’m Lloyd, a computer science undergraduate at NTU
+- 🤔 Interested in many areas of software development, from machine learning to web development
+- 🌱 I’m currently exploring data science libraries and algorithms and learning how to implement them
+- 📫 Feel free to reach me at lloydwangxy@gmail.com
+- 😄 Thanks for dropping by!
 
 <!--
 **Parzivalxx/Parzivalxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

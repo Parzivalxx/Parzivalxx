@@ -10,8 +10,12 @@ Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parzivalxx&layout=compact)](https://github.com/Parzivalxx/github-readme-stats) -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Parzivalxx&count_private=true&show_icons=true&theme=dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parzivalxx&layout=compact)](https://github.com/Parzivalxx/github-readme-stats" />
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Parzivalxx&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parzivalxx&layout=compact)](https://github.com/Parzivalxx/github-readme-stats" />
+</a>
 
 <!--
 **Parzivalxx/Parzivalxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

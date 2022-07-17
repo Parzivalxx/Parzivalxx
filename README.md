@@ -12,7 +12,7 @@ Hi there 👋
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Parzivalxx&count_private=true&show_icons=true&theme=dark" />
 </a>
-![LeetCode Stats](https://leetcard.jacoblin.cool/lloydwangxy?theme=dark&font=Averia%20Sans%20Libre)(https://leetcode.com/lloydwangxy)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/lloydwangxy?theme=dark&font=Averia%20Sans%20Libre)](https://leetcode.com/lloydwangxy)
 
 <!--
 **Parzivalxx/Parzivalxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

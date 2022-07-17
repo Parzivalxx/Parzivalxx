@@ -12,6 +12,7 @@ Hi there 👋
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Parzivalxx&count_private=true&show_icons=true&theme=dark" />
 </a>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Parzivalxx)](https://leetcode.com/Parzivalxx)
 
 <!--
 **Parzivalxx/Parzivalxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

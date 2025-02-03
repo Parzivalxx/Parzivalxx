@@ -2,7 +2,6 @@ Hi there 👋
 
 - 🔭 I’m Lloyd, a computer science undergraduate at NTU
 - 🤔 Interested in many areas of software development, from machine learning to web development
-- 📫 Feel free to reach me at lloydwangxy@gmail.com
 - 😄 Thanks for dropping by!
 
 <!-- ![Lloyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parzivalxx&count_private=true&show_icons=true&theme=dark)
